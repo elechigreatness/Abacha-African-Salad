@@ -14,3 +14,10 @@ header {
     top: 0;
     background: #ff4d2e ;
 }
+header h1 {
+    display: inline-block;
+    background: white;
+    color: #ff4d2e;
+    border: 2px solid white;
+    padding: 8px 20px;
+}
