@@ -37,6 +37,9 @@ main {
     text-align: center;
     color: #ff4d2e;
 }
+.card p {
+    text-align: justify;
+}
 footer {
     background: black;
     color: white;
