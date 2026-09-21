@@ -30,6 +30,9 @@ main {
     width: 100%;
     display: block;
 }
+.card {
+    padding: 20px 25px;
+}
 .card h2 {
     text-align: center;
     color: #ff4d2e;
