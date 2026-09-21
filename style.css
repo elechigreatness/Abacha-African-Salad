@@ -30,3 +30,7 @@ main {
     width: 100%;
     display: block;
 }
+.card h2 {
+    text-align: center;
+    color: #ff4d2e;
+}
